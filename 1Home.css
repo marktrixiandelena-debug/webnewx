@@ -1,5 +1,5 @@
  .hero1 {
-	background-image: url(image/HomeBG.jpg);
+	background-image: url(HomeBG.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -67,3 +67,4 @@
 	background-color: white;
 	margin: 0.5rem auto;
 }
+
