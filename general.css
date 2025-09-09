@@ -59,7 +59,7 @@ nav {
 }
 /*Hero Section*/
 .hero {
-	background-image: url(image/BackgroundOther.jpg);
+	background-image: url(BackgroundOther.jpg);
 	background-repeat: no-repeat;
 	background-attachment:fixed;
 	background-size: cover;
@@ -104,3 +104,4 @@ nav {
 		font-size: 1rem;
 	}
 }
+
